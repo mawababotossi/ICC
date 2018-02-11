@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd7cb041</color>
+    <color name="colorPrimaryDark">#ff456124</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="cardBackground">#ffffff</color>
+    <color name="recyclerBackground">#efefef</color>
+    <color name="navigationBarColor">#0e0e0e</color>
+</resources>
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#88209f</color>
+    <color name="colorPrimaryDark">#004e89</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="recyclerBackground">#ffffff</color>
+    <color name="cardBackground">#ffffff</color>
+    <color name="navigationBarColor">#0e0e0e</color>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a4566</color>
+    <color name="colorPrimaryDark">#3587c5</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="recyclerBackground">#ffffff</color>
+    <color name="cardBackground">#ffffff</color>
+    <color name="navigationBarColor">#0e0e0e</color>
+</resources>
+
+
+-->
+

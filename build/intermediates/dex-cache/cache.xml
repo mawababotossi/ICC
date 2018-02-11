@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_d2c2746125a6ae93070cedbd105144bd4e2297b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/ff77210c109d44485dd0c845a984c4e124c0376c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42128e0b25edfa440942b0df79ababd6ee3dd15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/c3dfaa79ea34f48bb80e033686f9b31a01dbe15d/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/internal_impl-22.2.1_2028d837dfa53988b5fedd57a96251f03ef2cd8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/ff77210c109d44485dd0c845a984c4e124c0376c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_42128e0b25edfa440942b0df79ababd6ee3dd15c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/glide-3.6.1_d2c2746125a6ae93070cedbd105144bd4e2297b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/support-annotations-22.2.1_501582435f230673c30c034fb8a8f6c68c28ecf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/AndroidStudioProjects/ICC/player/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bdff4f6d2413ff5a8b7397eb26b42659ee79224">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_38ee7436055b09594a454f816deea0dabcb1f46f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/AndroidStudioProjects/ICC/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a5961175b98494b89b7a24ac128e61e64ef7ef6">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_73c0d12bce5364588f3db1e22b8924165c60e9c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/c3dfaa79ea34f48bb80e033686f9b31a01dbe15d/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_2028d837dfa53988b5fedd57a96251f03ef2cd8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/763c28a0283e52a70f6e930eb7c21a4e7b2e6510/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_2b664ae4859b33f58f7196ccf7513ac798165e21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_501582435f230673c30c034fb8a8f6c68c28ecf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/763c28a0283e52a70f6e930eb7c21a4e7b2e6510/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b664ae4859b33f58f7196ccf7513ac798165e21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/AndroidStudioProjects/ICC/player/build/intermediates/bundles/default/libs/aacdecoder-android-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f1ea766518f973c877fb1d0f4afbe3440ed6e87">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/8/aacdecoder-android-0.8_596a42db36623dda9fc8db00fc8dcadb70fa3ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/c3dfaa79ea34f48bb80e033686f9b31a01dbe15d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e036ebf1d973ce0d3173e037154668cae539144c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/769145c440912472a02b2c34be0aad4f939d156a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_19962db6b63bfd9605714344c00026e8eba3a6d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b96a304a91b84663e08280fdb5415ce414bb8b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/769145c440912472a02b2c34be0aad4f939d156a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19962db6b63bfd9605714344c00026e8eba3a6d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49e9d8dd441132ae51fac2151ab20cce9ade9d5a">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f935f0eec11779e353cb1cbcdc2ac9e936bf5635/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/c3dfaa79ea34f48bb80e033686f9b31a01dbe15d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_e036ebf1d973ce0d3173e037154668cae539144c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/AndroidStudioProjects/ICC/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a5961175b98494b89b7a24ac128e61e64ef7ef6">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/volley_73c0d12bce5364588f3db1e22b8924165c60e9c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/AndroidStudioProjects/ICC/player/build/intermediates/bundles/default/libs/aacdecoder-android-0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f1ea766518f973c877fb1d0f4afbe3440ed6e87">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/aacdecoder-android-0.8_596a42db36623dda9fc8db00fc8dcadb70fa3ac0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ariana/.android/build-cache/142b18ef6e305e220f13bd3ea7e0047c2e9ee427/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eab3bf23425c7759f154647b2df6832698acd3b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ariana/.android/build-cache/142b18ef6e305e220f13bd3ea7e0047c2e9ee427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/ariana/AndroidStudioProjects/ICC/app/build/intermediates/pre-dexed/release/classes_eab3bf23425c7759f154647b2df6832698acd3b6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/agenda"
+            android:icon="@drawable/cat_calendrier_de_la_semaine"
+            android:title="Agenda de la semaine" />
+        <item
+            android:id="@+id/cultes"
+            android:icon="@drawable/cat_nos_cultes"
+            android:title="Cultes en audio" />
+
+        <item
+            android:id="@+id/formations"
+            android:icon="@drawable/cat_nos_formations"
+            android:title="Nos formations" />
+
+        <item
+            android:id="@+id/groupes"
+            android:icon="@drawable/cat_nos_groupes_dinteret"
+            android:title="Nos groupes d'intérêt" />
+    </group>
+
+</menu>

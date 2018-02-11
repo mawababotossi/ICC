@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">ICC Lomé</string>
+    <string name="action_settings">Règlages</string>
+    <string name="action_comments">Comments</string>
+    <string name="title_activity_article">Article</string>
+    <string name="title_activity_comment">Comments</string>
+    <string name="action_share">Partager</string>
+    <string name="tab_all">All</string>
+    <string name="loading_categories">Chargement…</string>
+    <string name="loading_articles">Chargement…</string>
+    <string name="action_refresh">Actualiser</string>
+    <string name="action_send_to_wear">Send to my watch</string>
+    <string name="error_load_categories">Problème de connexion</string>
+    <string name="error_load_posts">Problème de connexion</string>
+    <string name="action_retry">Reessayer</string>
+    <string name="search_hint">Que cherchez-vous?</string>
+    <string name="search_result">Résultat de recherche</string>
+    <string name="back_again">Appuyer de nouveau pour quitter</string>
+</resources>

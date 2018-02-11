@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_marginBottom="8dp"
+    app:cardBackgroundColor="@color/cardBackground"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="1dp"
+    android:id="@+id/card_view">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="8dp">
+
+        <!-- Thumbnail image -->
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginRight="0dp"
+            android:layout_margin="6dp"
+            android:layout_marginEnd="0dp"
+            android:background="#efefef"/>
+
+        <!-- Article title -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_alignBottom="@+id/relativeLayout"
+            android:layout_alignRight="@+id/comment_count"
+            android:layout_alignEnd="@+id/comment_count"
+            android:layout_alignTop="@+id/relativeLayout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:id="@+id/title"
+                android:textStyle="bold|normal"
+                android:paddingLeft="70dp"
+                android:paddingRight="6dp"
+                android:layout_marginTop="4dp"
+                android:text="-"
+                style="@style/TextAppearance.AppCompat.Headline"
+                android:textColor="#333"
+                android:lines="1"
+                android:scrollHorizontally="true"
+                android:ellipsize="end"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:id="@+id/when_where"
+                android:paddingLeft="70dp"
+                android:paddingRight="6dp"
+                android:layout_marginTop="32dp"
+                android:text="-"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#333"
+                android:lines="1"
+                android:scrollHorizontally="true"
+                android:ellipsize="end"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:layout_marginLeft="8dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="190dp"
+            android:orientation="vertical"
+            android:background="@drawable/shape_circle"
+            android:id="@+id/relativeLayout">
+
+            <customfonts.MyTextView
+                android:id="@+id/week_day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="15dp"
+                android:backgroundTint="#FFF"
+                android:text=" Mar."
+                android:textAlignment="center"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/day"
+                style="@style/TextAppearance.AppCompat.Body2" />
+
+            <TextView
+                android:id="@+id/day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-8dp"
+                android:layout_marginLeft="12dp"
+                android:backgroundTint="#FFF"
+                android:text="O6"
+                android:textSize="28sp"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                style="@style/TextAppearance.AppCompat.Headline" />
+
+        </LinearLayout>
+
+
+        <!-- Article comment count -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/comment_count"
+            android:layout_alignBottom="@+id/thumbnail"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="0sp"/>
+
+        <!-- Article view count -->
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textAppearance="?android:attr/textAppearanceSmall"-->
+        <!--android:text="Small Text"-->
+        <!--android:id="@+id/view_count"-->
+        <!--android:layout_alignTop="@+id/comment_count"-->
+        <!--android:layout_toLeftOf="@+id/comment_count"-->
+        <!--android:layout_toStartOf="@+id/comment_count" />-->
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
